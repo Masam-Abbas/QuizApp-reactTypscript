@@ -2,9 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install node module folder
+npm install --only=node_modules react-quiz
+
+You will need to have Node.js installed on your computer.
+You will need to be in the directory where the React app is located when you run the npm install command.
+The npm install command may take a few minutes to run.
+Run npm start to start the app.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
